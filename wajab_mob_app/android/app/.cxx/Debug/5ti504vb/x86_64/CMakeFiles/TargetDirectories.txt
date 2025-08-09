@@ -1,0 +1,2 @@
+D:/M.Anas/wajiba/wajba_mobile_app/android/app/.cxx/Debug/5ti504vb/x86_64/CMakeFiles/edit_cache.dir
+D:/M.Anas/wajiba/wajba_mobile_app/android/app/.cxx/Debug/5ti504vb/x86_64/CMakeFiles/rebuild_cache.dir

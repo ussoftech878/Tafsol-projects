@@ -1,0 +1,2 @@
+/Users/waleed/Documents/flutter apps/wabisabi_mob_app/android/app/.cxx/Debug/49x40295/x86_64/CMakeFiles/edit_cache.dir
+/Users/waleed/Documents/flutter apps/wabisabi_mob_app/android/app/.cxx/Debug/49x40295/x86_64/CMakeFiles/rebuild_cache.dir

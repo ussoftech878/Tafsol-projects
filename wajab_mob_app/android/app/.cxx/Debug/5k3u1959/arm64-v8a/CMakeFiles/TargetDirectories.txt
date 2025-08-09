@@ -1,0 +1,2 @@
+D:/flutter projects/wajab_mob_app/android/app/.cxx/Debug/5k3u1959/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/flutter projects/wajab_mob_app/android/app/.cxx/Debug/5k3u1959/arm64-v8a/CMakeFiles/rebuild_cache.dir

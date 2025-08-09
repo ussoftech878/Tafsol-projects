@@ -1,0 +1,2 @@
+D:/wabisabi_mob_app/android/app/.cxx/Debug/22543975/x86_64/CMakeFiles/edit_cache.dir
+D:/wabisabi_mob_app/android/app/.cxx/Debug/22543975/x86_64/CMakeFiles/rebuild_cache.dir

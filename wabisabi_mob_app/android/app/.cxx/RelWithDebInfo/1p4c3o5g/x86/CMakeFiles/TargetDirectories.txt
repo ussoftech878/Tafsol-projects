@@ -1,0 +1,2 @@
+D:/flutter projects/wabisabi_mob_app/android/app/.cxx/RelWithDebInfo/1p4c3o5g/x86/CMakeFiles/edit_cache.dir
+D:/flutter projects/wabisabi_mob_app/android/app/.cxx/RelWithDebInfo/1p4c3o5g/x86/CMakeFiles/rebuild_cache.dir

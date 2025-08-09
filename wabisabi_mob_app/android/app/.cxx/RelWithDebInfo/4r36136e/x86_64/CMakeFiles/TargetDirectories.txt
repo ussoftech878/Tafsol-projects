@@ -1,0 +1,2 @@
+D:/M.Anas/wabisabi/wabisabi_mob_app/android/app/.cxx/RelWithDebInfo/4r36136e/x86_64/CMakeFiles/edit_cache.dir
+D:/M.Anas/wabisabi/wabisabi_mob_app/android/app/.cxx/RelWithDebInfo/4r36136e/x86_64/CMakeFiles/rebuild_cache.dir

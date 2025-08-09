@@ -1,0 +1,60 @@
+name: wazefni_iraq
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  introduction_screen: ^3.1.14
+  flutter_svg: ^2.0.15
+  intl_phone_field: ^3.2.0
+  pin_code_fields: ^8.0.1
+  bubble: ^1.2.1
+  pinput: ^5.0.0
+  super_tooltip: ^2.0.9
+  flutter_screenutil: ^5.9.3
+  flutter_animate: ^4.5.2
+  flutter_keyboard_visibility: ^6.0.0
+  flutter_flip_card: ^0.0.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/png/
+  - assets/svg/
+  - assets/images/car.jpg
+  - assets/images/image.png
+  - assets/png/Employer_email_info.png
+  - assets/png/Ellipse 1.png
+  - assets/png/Ellipse 2.png
+
+  fonts:
+    - family: FrutigerLTArabic45Light
+      fonts:
+        - asset: assets/fonts/FrutigerLTArabic45Light.ttf
+        - asset: assets/fonts/FrutigerLTArabic55Roman.ttf
+        - asset: assets/fonts/FrutigerLTArabic65Bold.ttf
+        - asset: assets/fonts/frutigerltarabic75black.ttf
+        - asset: assets/fonts/SFPRODISPLAYREGULAR.OTF
+
+    - family: Almarai
+      fonts:
+        - asset: assets/fonts/Almarai-Regular.ttf
+        - asset: assets/fonts/Almarai-Light.ttf
+        - asset: assets/fonts/Almarai-ExtraBold.ttf
+        - asset: assets/fonts/Almarai-Bold.ttf
+        
+        
